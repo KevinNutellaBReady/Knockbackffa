@@ -1,0 +1,7 @@
+name: KnockbackFFA
+version: 1.0
+author: Kevin
+main: me.kevin.main.KnockbackFFA
+commands:
+  Kbffa:
+  build:
